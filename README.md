@@ -15,4 +15,4 @@ This is an adult toy driving circuit that make an egg vibrator vibrate according
 7. Power the whole thing with the USB socket on the top-right, ideally with a portable USB power source.
 
 # Final product
-[[/images/vibrator.jpg]]
+![Photo of final product](/images/vibrator.jpg)
