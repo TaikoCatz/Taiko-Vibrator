@@ -1,0 +1,18 @@
+"Source:","C:\Users\Apricot\Documents\circuits\kicad\taiko_vibrator\taiko_vibrator.kicad_sch"
+"Date:","8/9/2023 10:58:27 PM"
+"Tool:","Eeschema 7.0.5"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","13"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","1","A1","Arduino_Nano_v3.x","MCU_Module:Arduino_Nano_v3.x","Module:Arduino_Nano","http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf",""
+"2","1","C1","4.7µF","Device:C_Polarized","Capacitor_THT:CP_Radial_D4.0mm_P1.50mm","~",""
+"3","1","D1","1N5817","Diode:1N5817","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88525/1n5817.pdf",""
+"4","2","D2, D3","BZX55C6V8","Device:D_Zener","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","~",""
+"5","1","J1","USB_B_Mini","Connector:USB_B_Mini","Connector_USB:USB_Mini-B_Tensility_54-00023_Vertical","~",""
+"6","2","J2, J3","Conn_01x02_Socket","Connector:Conn_01x02_Socket","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal","~",""
+"7","1","J4","Conn_01x02_Pin","Connector:Conn_01x02_Pin","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~",""
+"8","2","Q1, Q2","AO3400A","Transistor_FET:AO3400A","Package_TO_SOT_SMD:SOT-23","http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf",""
+"9","2","R1, R2","10kΩ","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~",""
